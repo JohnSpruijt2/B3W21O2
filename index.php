@@ -15,9 +15,9 @@
    ?>
 
 
-   <div id="bigDiv">
+   
    <?php require "B3W21O1/index.php"; ?>
-   </div> 
+    
    <div class="white">
    <?php require 'labs/lab 2/index.php'; ?>
    </div>
@@ -27,5 +27,8 @@
    <div class="white">
    <?php require 'labs/lab 4/index.php'; ?>
    </div>
+   
+       <?php require "php/footer.php" ?>
+   
 </body>
 </html>

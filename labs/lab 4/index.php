@@ -67,6 +67,7 @@ if(isset($_POST['SubmitButton'])){
   echo $yathzeeTxt."<br>";
   echo $monopolyTxt."<br>";
   echo $schakenTxt."<br>";
+  echo "<script>setTimeout(function(){ window.scrollTo(0,2286); }, 1);</script>";
 }    
 ?>
 
