@@ -1,0 +1,49 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+body {
+    background-color: rgb(221, 221, 221);
+}
+nav a {
+    margin-right: 10px;
+    text-decoration: none;
+    color: black;
+    padding: 15.6px 10px;
+    background-color: lightgrey;
+    display: inline-block;
+}
+nav {
+    margin: 0 auto;
+    width: 1000px;
+    background-color: gray;
+    height: 50px;
+}
+#header {
+    width: 1000px;
+    margin: 0 auto;
+    height: 150px;
+    background-image: url("../images/banner.png");
+}
+.white {
+    background-color: white;
+    width: 1000px;
+    margin: 10px auto;
+    padding: 5px;
+    box-sizing: border-box;
+}
+#bigDiv {
+    height: 700px;
+    width: 100%;
+    text-align: center;
+    background-size: contain;
+    margin: 0 auto;
+}
+#bigDiv a {
+    text-align: center;
+    margin: 0 auto;
+    font-size: 4em;
+    color: white;
+    font-family: 'Playfair Display', serif;
+}
